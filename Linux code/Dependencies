@@ -1,0 +1,5 @@
+To execute these code the following dependencies should be installed:
+SRA Toolkit
+BWA
+Samtools
+Coreutils
